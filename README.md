@@ -1,6 +1,14 @@
 # Weather Forecast
 
-Weather Forecast is a web application that displays real-time weather information for a given location. It shows the current temperature, humidity, and wind speed, along with a visual weather icon representing the current conditions. The app fetches data from the OpenWeather API and is built using ReactJS and CSS.
+Weather Forecast is a dynamic web application that displays real-time weather information for any location. Built with ReactJS and CSS, it fetches live data from the OpenWeather API and uses the browser's Geolocation API to auto-detect the user’s current location.
+
+The app shows:
+Current temperature, humidity, wind speed, and precipitation
+“Feels like” temperature and air quality index (AQI)
+Weather description with visual icons
+A responsive background gradient that changes based on weather conditions
+
+This project demonstrates API integration, conditional rendering, and dynamic UI styling based on real-time data.
 
 ## Tech Stack 
 
